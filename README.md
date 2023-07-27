@@ -1,3 +1,3 @@
-# app
+# App1
 ## welcome to my first app
-this app does a lot of things
+This app does a lot of things
